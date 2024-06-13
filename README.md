@@ -36,5 +36,4 @@ python main.py || cd bin && generate-certificate
          2. save 
 
 ## Preview
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.loom.com/embed/7dba772b26dd4152bfe7c989f1294af3?sid=3ff0d40d-f2bf-47b1-8df8-5e0a4a3ceebc)
-
+- https://www.loom.com/share/7dba772b26dd4152bfe7c989f1294af3?sid=44968d1c-50db-476b-91e7-fcf2231a7650
