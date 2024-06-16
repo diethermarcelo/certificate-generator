@@ -35,6 +35,5 @@ python main.py || cd bin && generate-certificate
          1. field on the fields
          2. save 
 
-## Preview
-- https://www.loom.com/share/7dba772b26dd4152bfe7c989f1294af3?sid=46aad109-3047-4fb6-99d3-05b51c1b789f
-
+## Preview:
+- https://www.loom.com/share/7dba772b26dd4152bfe7c989f1294af3?sid=44968d1c-50db-476b-91e7-fcf2231a7650
